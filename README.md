@@ -6,7 +6,7 @@
 Software used:
   •Operating System : Windows 10
   •Editor: Sublime Text
-  •Static part : HTML, Bootstrap
+  •Static part : HTML, Bootstrap, Css
   •Dynamic part : MySQL, PHP, JavaScript
   •Web Server : Wamp
   •Browser : Chrome
